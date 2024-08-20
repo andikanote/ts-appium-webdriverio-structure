@@ -5,14 +5,6 @@
 <p>This structure is possible to run UI tests for native apps (Android + iOS) using Appium + WebdriverIO.<p>
 
 ## Technologies and tools used:
-
-- [TypeScript](https://www.typescriptlang.org/)
-- [Allure Reporter](https://www.npmjs.com/package/@wdio/allure-reporter)
-- [Appium Service](https://www.npmjs.com/package/@wdio/appium-service)
-- [Local Runner](https://www.npmjs.com/package/@wdio/local-runner)
-- [Mocha](https://www.npmjs.com/package/@wdio/mocha-framework)
-- [Allure commandline](https://www.npmjs.com/package/allure-commandline)
-
 ## File Structure
 
 📦TS-APPIUM-WEBDRIVERIO-STRUCTURE  
